@@ -39,10 +39,10 @@ resetButton.addEventListener('click',()=>{
     currentQuestionIndex++
 })
 
-/* my name jeff */
+
 
 const gameList=[
     {
-        game: 
+        game:6 
     }
 ]
